@@ -20,37 +20,9 @@
   </a>
 </p>
 
----
 
-## `whoami`
-
-I'm a Computer Engineering student interested in **backend systems, distributed infrastructure, AI systems, and developer tooling**.
-
----
-
-## Tech I work with
-
-**Languages**
-
-`Java` `JavaScript` `TypeScript` `Python` `C++` `SQL` `Go`
-
-**Backend**
-
-`Node.js` `Express` `NestJS` `Spring Boot` `REST` `OpenAPI`
-
-**Data & Infrastructure**
-
-`PostgreSQL` `MongoDB` `Redis` `Kafka` `Docker` `Kubernetes`
-
-**Cloud / DevOps**
-
-`AWS` `Oracle Cloud` `CI/CD` `GitHub Actions` `Linux`
-
-**AI / ML**
-
-`PyTorch` `scikit-learn` `Model Compression` `AI Agents` `LLM Infrastructure`
-
----
+# Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Engineering philosophy
 
@@ -58,25 +30,7 @@ I'm a Computer Engineering student interested in **backend systems, distributed 
 
 ---
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak2477&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak2477&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak2477&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="165"/>
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<p align="center">
-
-**Build → Break → Understand → Rebuild**
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=100&section=footer" width="100%"/>
-</p>
+[![](https://komarev.com/ghpvc/?username=Sarthak2477&icon=0&color=0)](https://visitcount.itsvg.in)
