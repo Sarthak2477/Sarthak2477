@@ -32,4 +32,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sarthak2477&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
