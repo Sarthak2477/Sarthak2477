@@ -1,5 +1,3 @@
-# Sarthak Pawar
-
 **Backend Engineer · Systems · AI/ML**
 
 > I like building things that are useful, understanding how they work underneath, and occasionally breaking them just to find out why.
